@@ -1,2 +1,2 @@
-# server app with prisma features(crud operations) and make 'likes'
+# server app with prisma features(crud operations) and make 'likes'(PostgreSQL)
  
